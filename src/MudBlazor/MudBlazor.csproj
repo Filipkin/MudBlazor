@@ -28,6 +28,10 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageIdPrefix></PackageIdPrefix>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
