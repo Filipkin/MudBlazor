@@ -13,7 +13,7 @@
 
   <PropertyGroup>
     <Title>MudBlazor</Title>
-    <PackageId>MudBlazor</PackageId>
+    <PackageId>AndrewMudBlazor</PackageId>
     <Version>5.0.1</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>Nuget.png</PackageIcon>
